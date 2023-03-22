@@ -1,0 +1,23 @@
+footer {
+    position: relative;
+    top: 15vh;
+}
+
+.tituloAcercaDeNosotros {
+    font-size: 3.5em;
+    font-weight: 600;
+    text-align: center;
+}
+
+p {
+    margin-top: 3vh;
+    font-size: 1.3em;
+    font-weight: 400;
+    text-align: center;
+}
+
+.tituloCards {
+    font-size: 2.5em;
+    font-weight: 600;
+    text-align: center;
+}
